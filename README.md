@@ -3,7 +3,11 @@
 <p>The React Native-based job search application enables job seekers to browse and apply for job openings using their smartphones.</p>
 
 
-https://user-images.githubusercontent.com/96646536/233550335-89f521a1-5328-4782-8353-3db3ec7576af.mp4
+
+https://user-images.githubusercontent.com/96646536/233550498-7f1dfec2-a011-435f-8660-28edd836aef1.mp4
+
+
+
 
 
 
